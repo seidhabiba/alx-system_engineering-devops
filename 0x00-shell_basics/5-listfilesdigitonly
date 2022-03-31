@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -l
-[A[C[C[C[C[Ca ..
+ls -la ..
