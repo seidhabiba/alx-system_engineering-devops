@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /bin/ls ./_ls_[D[1[D[D[D[D[D[1[D[D[D[D[D[D[D[D[D[D[1
+ln -s /bin/ls ./_ls_
