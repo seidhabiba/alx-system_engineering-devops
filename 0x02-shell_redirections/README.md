@@ -1,2 +1,2 @@
 #!/bin/bash
-'My readme file for the shell redirections task'
+describing what each script is doing
