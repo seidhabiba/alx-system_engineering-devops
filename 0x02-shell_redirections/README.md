@@ -1,2 +1,1 @@
-#!/bin/bash
-describing what each script is doing
+hello world script
